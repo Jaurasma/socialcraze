@@ -1,5 +1,5 @@
 # socialcraze - Simple Social Media Site
-
+*This project was developed in collaboration with [Aki Falck](https://github.com/AkiFalck).*
 ## Overview
 
 This project is a simple social media site built using Next.js and Supabase. The application allows users to view profiles, follow and unfollow users, and see a list of posts made by users. It features a clean user interface and smooth animations to enhance user experience.
